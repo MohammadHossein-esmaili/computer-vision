@@ -23,7 +23,7 @@ This tutorial depends on the following libraries:
 Also, this code should be compatible with Python versions 3.10-3.12.
 
 
-### Following steps:
+### Following steps
 
     1.  Load and explore the dataset
     2.  Preprocess the images and masks
