@@ -29,3 +29,18 @@ Also, this code should be compatible with Python versions 3.10-3.12.
     3.  Define and build the U-Net model
     4.  Train the model using a learning rate scheduler and early stopping
     5.  Visualize the model's performance with sample predictions
+
+
+## About Keras
+
+Keras is a minimalist, highly modular neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+
+Use Keras if you need a deep learning library that:
+
+allows for easy and fast prototyping (through total modularity, minimalism, and extensibility).
+supports both convolutional networks and recurrent networks, as well as combinations of the two.
+supports arbitrary connectivity schemes (including multi-input and multi-output training).
+runs seamlessly on CPU and GPU.
+Read the documentation [Keras.io](http://keras.io/)
+
+
