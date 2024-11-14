@@ -1,5 +1,5 @@
 ###     **computer-vision**
-#     Image Segmentation based on the U-Net architecture
+#     Image Segmentation based on the U-Net architecture.
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://github.com/MohammadHossein-esmaili/computer-vision/blob/main/pet_image_segmentation_Unet.ipynb)
