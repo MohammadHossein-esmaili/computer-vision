@@ -1,17 +1,17 @@
 #     **computer-vision**
 #     Image Segmentation based on the U-Net architecture
 
-Overview
+### Overview
 
 In this notebook, we’ll build a [Convolutional Neural Network](https://www.ibm.com/topics/convolutional-neural-networks)  based on the [U-Net architecture](https://www.geeksforgeeks.org/u-net-architecture-explained/) to perform image segmentation on the [Oxford Pets dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz). Image segmentation allows us to identify and label each pixel in an image, which is useful for tasks that require detailed recognition, such as separating pets from the background in photos.
 
 ### Model
 
-![img/u-net-architecture.png]([img/u-net-architecture.png](https://miro.medium.com/v2/resize:fit:828/format:webp/1*x0kR2rGlTibVbu8InCNBVg.jpeg))
+![img/u-net-architecture.png](https://miro.medium.com/v2/resize:fit:828/format:webp/1*x0kR2rGlTibVbu8InCNBVg.jpeg)
 
 This deep neural network is implemented with Keras functional API, which makes it extremely easy to experiment with different interesting architectures.
 
-##Following steps:
+### Following steps:
 
     1.  Load and explore the dataset
     2.  Preprocess the images and masks
