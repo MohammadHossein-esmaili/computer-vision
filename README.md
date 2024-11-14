@@ -11,6 +11,18 @@ In this notebook, we’ll build a [Convolutional Neural Network](https://www.ibm
 
 This deep neural network is implemented with Keras functional API, which makes it extremely easy to experiment with different interesting architectures.
 
+## How to use
+
+### Dependencies
+
+This tutorial depends on the following libraries:
+
+* Tensorflow
+* Keras >= 1.0
+
+Also, this code should be compatible with Python versions 3.10-3.12.
+
+
 ### Following steps:
 
     1.  Load and explore the dataset
