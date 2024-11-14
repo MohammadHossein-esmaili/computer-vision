@@ -27,8 +27,11 @@ This tutorial depends on the following libraries:
 Also, this code should be compatible with Python versions 3.10-3.12.
 
 ### run
+
 you can just run this notebook
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://github.com/MohammadHossein-esmaili/computer-vision/blob/main/pet_image_segmentation_Unet.ipynb)
+
 
 ## Following steps
 
