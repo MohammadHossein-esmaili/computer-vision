@@ -7,7 +7,7 @@ In this notebook, we’ll build a [Convolutional Neural Network](https://www.ibm
 
 ### Model
 
-![img/u-net-architecture.png](img/u-net-architecture.png)
+![img/u-net-architecture.png]([img/u-net-architecture.png](https://miro.medium.com/v2/resize:fit:828/format:webp/1*x0kR2rGlTibVbu8InCNBVg.jpeg))
 
 This deep neural network is implemented with Keras functional API, which makes it extremely easy to experiment with different interesting architectures.
 
