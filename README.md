@@ -2,6 +2,8 @@
 #     Image Segmentation based on the U-Net architecture
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DiamondLightSource/placental-segmentation-2dunet/blob/main/blood_vessels/placenta_blood_vessel_2d_unet_training.ipynb)
+
 
 ### Overview
 
@@ -24,7 +26,11 @@ This tutorial depends on the following libraries:
 
 Also, this code should be compatible with Python versions 3.10-3.12.
 
-### Following steps
+### run
+you can just run this notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CS6fU2vfCxJDdQjNM03YDkl-mfqYGbns#scrollTo=RWOWTY_oAZBw)
+
+## Following steps
 
     1.  Load and explore the dataset
     2.  Preprocess the images and masks
